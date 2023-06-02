@@ -1,0 +1,3 @@
+[submodule "midtier/midtier1"]
+	path = midtier/midtier1
+	url = https://github.com/rushipatel94/midtier.git
